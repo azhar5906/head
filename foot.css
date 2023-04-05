@@ -1,0 +1,76 @@
+#body1 {
+    background-color: dimgray;
+    width: 1350;    
+    height: 140px;
+}
+.top {
+    display: flex;
+    flex-wrap: wrap;
+    float: right;
+    padding: 20px; 
+}
+* {
+    padding: 0px;
+}
+#logo {
+    width: 110px;
+    padding: 10px 10px 10px 10px;
+}  
+.heading {
+    border: 1px solid black;
+    width: 300px;
+    background-color: deepskyblue;
+    text-align: center;
+
+}
+.heading2 {
+    border: 1px solid black;
+    width: 300px;
+    text-align: center;
+    background-color: pink;
+}
+.heading3 {
+    border: 1px solid black;
+    text-align: center;
+    width: 300px;
+    background-color: violet;
+}
+.footer-col {
+    background-color: black;
+    color: white;
+    padding-left: 60px;
+}
+.footer {
+    background-color: black;
+    color: dimgray;
+} 
+.text {
+    color: dimgray;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 50px;
+}
+.box {
+    border: 1px solid black;
+    width: 300px;
+    color: #000000;
+}
+.flexbox {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px 10px 10px 10px;
+}
+.link {
+    padding: 5px;
+    color: black;
+}
+.mainhead {
+    color: white;
+    text-decoration: none;
+}
+
+h1 {
+    color: pink;
+}
